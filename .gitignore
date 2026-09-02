@@ -1,0 +1,7 @@
+.venv/
+.matplotcache/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+.DS_Store
