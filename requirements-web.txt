@@ -1,0 +1,2 @@
+# Web 聊天界面专用依赖（在 requirements-agent.txt 基础上追加）
+streamlit>=1.40,<2

@@ -1,0 +1,2 @@
+# AI 数据分析 Agent 专用依赖（其余脚本只需 requirements.txt）
+zai-sdk>=0.2,<1
